@@ -1,0 +1,41 @@
+id,name,code,allergen_name
+1,Bratkartoffeln mit Speck und Zwiebeln,a3,Gerste
+1,Bratkartoffeln mit Speck und Zwiebeln,a4,Dinkel
+1,Bratkartoffeln mit Speck und Zwiebeln,c,Krebstiere
+1,Bratkartoffeln mit Speck und Zwiebeln,f1,Butter
+1,Bratkartoffeln mit Speck und Zwiebeln,h,Nüsse
+3,Bratkartoffeln mit Zwiebeln,a6,Dinkel
+3,Bratkartoffeln mit Zwiebeln,f1,Butter
+3,Bratkartoffeln mit Zwiebeln,i,Erdnüsse
+4,Grilltofu,a3,Gerste
+4,Grilltofu,a4,Dinkel
+4,Grilltofu,f1,Butter
+4,Grilltofu,h3,Walnüsse
+5,Lasagne,,
+6,Lasagne vegetarisch,d,Schwefeldioxid/Sulfit
+7,Hackbraten,a2,Roggen
+7,Hackbraten,c,Krebstiere
+7,Hackbraten,h1,Mandeln
+7,Hackbraten,h3,Walnüsse
+8,Gemüsepfanne,a3,Gerste
+9,Hühnersuppe,a2,Roggen
+10,Forellenfilet,d,Schwefeldioxid/Sulfit
+10,Forellenfilet,f,Milch und Laktose
+10,Forellenfilet,h3,Walnüsse
+11,Kartoffel-Lauch-Suppe,,
+12,Kassler mit Rosmarinkartoffeln,a5,Hafer
+12,Kassler mit Rosmarinkartoffeln,f2,Käse
+12,Kassler mit Rosmarinkartoffeln,h1,Mandeln
+13,Drei Reibekuchen mit Apfelmus,,
+14,Pilzpfanne,i,Erdnüsse
+15,Pilzpfanne vegan,a1,Weizen
+15,Pilzpfanne vegan,a4,Dinkel
+15,Pilzpfanne vegan,f3,Margarine
+15,Pilzpfanne vegan,h3,Walnüsse
+15,Pilzpfanne vegan,i,Erdnüsse
+16,Käsebrötchen,,
+17,Schinkenbrötchen,,
+18,Tomatenbrötchen,,
+19,Mousse au Chocolat,,
+20,Suppenkreation á la Chef,,
+21,Currywurst mit Pommes,,
